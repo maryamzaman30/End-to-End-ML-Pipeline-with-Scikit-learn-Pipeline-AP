@@ -13,8 +13,7 @@ This project is a part of my **AI/ML Engineering Internship** at **DevelopersHub
 This project implements an end-to-end machine learning pipeline for predicting customer churn. The goal is to identify customers who are likely to discontinue using a service, enabling proactive retention strategies.
 
 - View the app screenshots [here](./app-screenshots)
-- Link to App Online: click the link in the About section on the left
-
+  
 ## Features
 - Data preprocessing and feature engineering
 - Model training with hyperparameter tuning
